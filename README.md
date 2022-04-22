@@ -223,8 +223,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>URL Opener</summary>
 <p>
   
-  - [URL Opener Script View]()
-  - [URL Opener Script Download]()
+  - [URL Opener Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/URL%20Opener/UrlOpener.cs)
+  - [URL Opener Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/URL%20Opener/UrlOpener.cs)
   
 </p>
 </details>
