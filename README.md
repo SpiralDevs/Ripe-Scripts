@@ -10,7 +10,8 @@
   <p>
     
     
-   [Copy To Clipboard Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Copy%20To%20Clipboard/CopyToClipboard.cs)
+   - [Copy To Clipboard Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Copy%20To%20Clipboard/CopyToClipboard.cs)
+   - [Copy To Clipboard Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Copy%20To%20Clipboard/CopyToClipboard.cs)
     
   </p>
   </details>
