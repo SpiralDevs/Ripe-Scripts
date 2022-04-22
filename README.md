@@ -38,8 +38,8 @@
 <details><summary>Discord Webhook</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Discord Webhook Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Discord%20Webhook/DiscordWebhook.cs)
+  - [Discord Webhook Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Discord%20Webhook/DiscordWebhook.cs)
   
 </p>
 </details>
@@ -48,8 +48,87 @@
 <details><summary>Photon</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+
+<details><summary>Change Name</summary>
+<p>
+  
+<details><summary>Don't Use Button To Save Name</summary>
+<p>
+  
+  - [Player Name Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/Don't%20Use%20Button%20To%20Save%20Name/PlayerName.cs)
+  - [Player Name Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/Don't%20Use%20Button%20To%20Save%20Name/PlayerName.cs)
+  
+</p>
+</details>
+  
+  <details><summary>Use Button To Save Name</summary>
+<p>
+  
+  - [Player Name Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/Use%20Button%20To%20Save%20Name/PlayerName.cs)
+  - [Player Name Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/Use%20Button%20To%20Save%20Name/PlayerName.cs)
+  
+</p>
+</details>
+
+<details><summary>Update Name</summary>
+<p>
+  
+  - [Update Name Script View]()
+  - [Update Name Script Download]()
+  
+</p>
+</details>
+  
+  README.md
+  ```
+  If you want to have a button to save the player's name then choose the "Use Button To Save Name" folder and use that code.
+
+But
+
+If you want the player's name to automatically be updated every time they change it choose "Use Button To Save Name" and use that code.
+
+
+Also you may need the UpdateName.cs file.
+
+Just Apply it somewhere in the scene to change the name, then add the references to it then you will be good with that script.
+  ```
+  
+</p>
+</details>
+  
+  
+<details><summary>Lobbys</summary>
+<p>
+  
+<details><summary>Connect To Server</summary>
+<p>
+  
+  - [Connect To Server Script View]()
+  - [Connect To Server Script Download]()
+  
+</p>
+</details>
+  
+  <details><summary>Create And Join Rooms</summary>
+<p>
+  
+  - [Create And Join Rooms Script View]()
+  - [Create And Join Rooms Script Download]()
+  
+</p>
+</details>
+  
+  <details><summary>Spawn Players</summary>
+<p>
+  
+  - [Spawn Players Script View]()
+  - [Spawn Players Script Download]()
+  
+</p>
+</details>
+  
+</p>
+</details>
   
 </p>
 </details>
@@ -58,8 +137,8 @@
 <details><summary>Press Any Key To Begin</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Any Key Script View]()
+  - [Any Key Script Download]()
   
 </p>
 </details>
@@ -68,8 +147,8 @@
 <details><summary>Quit Game</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Quit Game Script View]()
+  - [Quit Game Script Download]()
   
 </p>
 </details>
@@ -79,8 +158,8 @@
 <details><summary>Screenshot</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Screenshot Script View]()
+  - [Screenshot Script Download]()
   
 </p>
 </details>
@@ -97,8 +176,8 @@
 <details><summary>Vertex Wobble</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Vertex Wobble Script View]()
+  - [Vertex Wobble Script Download]()
   
 </p>
 </details>
@@ -107,8 +186,8 @@
 <details><summary>Character Wobble</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Character Wobble Script View]()
+  - [Character Wobble Script Download]()
   
 </p>
 </details>
@@ -117,14 +196,35 @@
 <details><summary>Word Wobble</summary>
 <p>
   
-  - [Script View]()
-  - [Script Download]()
+  - [Word Wobble Script View]()
+  - [Word Wobble Script Download]()
   
 </p>
 </details>
   
 </p>
 </details>
+  
+</p>
+</details>
+  
+  
+  
+<details><summary>Timer</summary>
+<p>
+  
+  - [Timer Script View]()
+  - [Timer Script Download]()
+  
+</p>
+</details>
+  
+  
+<details><summary>URL Opener</summary>
+<p>
+  
+  - [URL Opener Script View]()
+  - [URL Opener Script Download]()
   
 </p>
 </details>
