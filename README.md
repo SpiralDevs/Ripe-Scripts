@@ -73,8 +73,8 @@
 <details><summary>Update Name</summary>
 <p>
   
-  - [Update Name Script View]()
-  - [Update Name Script Download]()
+  - [Update Name Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/UpdateName.cs)
+  - [Update Name Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Change%20Name/UpdateName.cs)
   
 </p>
 </details>
@@ -103,8 +103,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Connect To Server</summary>
 <p>
   
-  - [Connect To Server Script View]()
-  - [Connect To Server Script Download]()
+  - [Connect To Server Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Connect%20To%20Server/ConnectToServer.cs)
+  - [Connect To Server Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Connect%20To%20Server/ConnectToServer.cs)
   
 </p>
 </details>
@@ -112,8 +112,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
   <details><summary>Create And Join Rooms</summary>
 <p>
   
-  - [Create And Join Rooms Script View]()
-  - [Create And Join Rooms Script Download]()
+  - [Create And Join Rooms Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Create%20And%20Join%20Rooms/CreateAndJoinRooms.cs)
+  - [Create And Join Rooms Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Create%20And%20Join%20Rooms/CreateAndJoinRooms.cs)
   
 </p>
 </details>
@@ -137,8 +137,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Press Any Key To Begin</summary>
 <p>
   
-  - [Any Key Script View]()
-  - [Any Key Script Download]()
+  - [Any Key Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Spawn%20Players/SpawnPlayers.cs)
+  - [Any Key Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Photon/Lobbys/Spawn%20Players/SpawnPlayers.cs)
   
 </p>
 </details>
@@ -147,8 +147,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Quit Game</summary>
 <p>
   
-  - [Quit Game Script View]()
-  - [Quit Game Script Download]()
+  - [Quit Game Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Quit%20Game/QuitGame.cs)
+  - [Quit Game Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Quit%20Game/QuitGame.cs)
   
 </p>
 </details>
@@ -158,8 +158,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Screenshot</summary>
 <p>
   
-  - [Screenshot Script View]()
-  - [Screenshot Script Download]()
+  - [Screenshot Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/ScreenShot/Screen_Shot.cs)
+  - [Screenshot Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/ScreenShot/Screen_Shot.cs)
   
 </p>
 </details>
@@ -176,8 +176,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Vertex Wobble</summary>
 <p>
   
-  - [Vertex Wobble Script View]()
-  - [Vertex Wobble Script Download]()
+  - [Vertex Wobble Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Vertex%20Wobble/VertexWobble.cs)
+  - [Vertex Wobble Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Vertex%20Wobble/VertexWobble.cs)
   
 </p>
 </details>
@@ -186,8 +186,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Character Wobble</summary>
 <p>
   
-  - [Character Wobble Script View]()
-  - [Character Wobble Script Download]()
+  - [Character Wobble Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Character%20Wobble/CharacterWobble.cs)
+  - [Character Wobble Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Character%20Wobble/CharacterWobble.cs)
   
 </p>
 </details>
@@ -196,8 +196,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Word Wobble</summary>
 <p>
   
-  - [Word Wobble Script View]()
-  - [Word Wobble Script Download]()
+  - [Word Wobble Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Word%20Wobble/WordWobble.cs)
+  - [Word Wobble Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Text%20Effects/Wobble/Word%20Wobble/WordWobble.cs)
   
 </p>
 </details>
@@ -213,8 +213,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
 <details><summary>Timer</summary>
 <p>
   
-  - [Timer Script View]()
-  - [Timer Script Download]()
+  - [Timer Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Timer/TimerController.cs)
+  - [Timer Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Timer/TimerController.cs)
   
 </p>
 </details>
