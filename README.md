@@ -6,6 +6,7 @@
 <details><summary>Shortcuts</summary>
 <p>
   
+  ## Copy To Clipboard
   <details><summary>Copy To Clipboard</summary>
   <p>
     
@@ -16,6 +17,7 @@
   </p>
   </details>
   
+  ## Cursor Face Mouse 2d
   <details><summary>Cursor Face Mouse 2d</summary>
 <p>
   
@@ -25,7 +27,7 @@
 </p>
 </details>
   
-  
+## Date
 <details><summary>Date</summary>
 <p>
   
@@ -35,6 +37,7 @@
 </p>
 </details>
 
+  ## Discord Webhook
 <details><summary>Discord Webhook</summary>
 <p>
   
@@ -44,14 +47,15 @@
 </p>
 </details>
   
-  
+  ## Photon
 <details><summary>Photon</summary>
 <p>
   
-
+### Change Name
 <details><summary>Change Name</summary>
 <p>
-  
+ 
+### Don't Use Button To Save Name
 <details><summary>Don't Use Button To Save Name</summary>
 <p>
   
@@ -61,6 +65,7 @@
 </p>
 </details>
   
+  ### Use Button To Save Name
   <details><summary>Use Button To Save Name</summary>
 <p>
   
@@ -70,6 +75,7 @@
 </p>
 </details>
 
+  ### Update Name
 <details><summary>Update Name</summary>
 <p>
   
@@ -79,6 +85,7 @@
 </p>
 </details>
   
+  ### Lobby Read Me
   README.md
   ```
   If you want to have a button to save the player's name then choose the "Use Button To Save Name" folder and use that code.
@@ -96,10 +103,11 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+  ## Lobbys
 <details><summary>Lobbys</summary>
 <p>
-  
+
+  ### Connect To Server
 <details><summary>Connect To Server</summary>
 <p>
   
@@ -108,7 +116,8 @@ Just Apply it somewhere in the scene to change the name, then add the references
   
 </p>
 </details>
-  
+ 
+  ### Create And Join Rooms
   <details><summary>Create And Join Rooms</summary>
 <p>
   
@@ -118,6 +127,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
+  ### Spawn Players
   <details><summary>Spawn Players</summary>
 <p>
   
@@ -133,7 +143,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+## Press Any Key To Begin  
 <details><summary>Press Any Key To Begin</summary>
 <p>
   
@@ -143,7 +153,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+ ## Quit Game 
 <details><summary>Quit Game</summary>
 <p>
   
@@ -154,7 +164,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </details>
   
   
-  
+## Screenshot  
 <details><summary>Screenshot</summary>
 <p>
   
@@ -164,15 +174,15 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+ ## Text Effects 
 <details><summary>Text Effects</summary>
 <p>
   
-  
+### Wobble  
 <details><summary>Wobble</summary>
 <p>
   
-
+### Vertex Wobble
 <details><summary>Vertex Wobble</summary>
 <p>
   
@@ -182,7 +192,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
- 
+### Character Wobble 
 <details><summary>Character Wobble</summary>
 <p>
   
@@ -192,7 +202,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+ ### Word Wobble 
 <details><summary>Word Wobble</summary>
 <p>
   
@@ -209,7 +219,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </details>
   
   
-  
+ ## Timer 
 <details><summary>Timer</summary>
 <p>
   
@@ -219,7 +229,7 @@ Just Apply it somewhere in the scene to change the name, then add the references
 </p>
 </details>
   
-  
+ ## URL Opener 
 <details><summary>URL Opener</summary>
 <p>
   
