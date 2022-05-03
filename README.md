@@ -1,9 +1,9 @@
-# unity-cs-scripts
+# scripts
 
 
 ## Quick Access
 
-<details><summary>Shortcuts</summary>
+<details><summary>Unity C# Scripts</summary>
 <p>
   
   ## Copy To Clipboard
@@ -160,6 +160,15 @@ Just Apply it somewhere in the scene to change the name, then add the references
   - [Quit Game Script View](https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Quit%20Game/QuitGame.cs)
   - [Quit Game Script Download](https://downgit.github.io/#/home?url=https://github.com/SpiralGaming/unity-cs-scripts/blob/main/Scripts/Quit%20Game/QuitGame.cs)
   
+</p>
+</details>
+  
+  ## Respawn Player
+<details><summary>Respawn Player</summary>
+<p>
+
+  
+
 </p>
 </details>
   
