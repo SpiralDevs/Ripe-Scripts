@@ -24,7 +24,7 @@ public class PlayerHealthUpgraded : MonoBehaviour
 
     void Start()
     {
-        currentHealth = 10;  
+        currentHealth = maxHealth;  
         deathMenu.SetActive(false);
         winMenu.SetActive(false);
     }
