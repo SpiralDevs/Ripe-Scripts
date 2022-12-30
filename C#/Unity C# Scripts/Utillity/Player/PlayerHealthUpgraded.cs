@@ -3,7 +3,7 @@ using UnityEngine.Audio;
 using System.Collections;
 using TMPro; // or if you don't use text mesh pro, use "using UnityEngine.UI;"
 
-public class PlayerHealth : MonoBehaviour
+public class PlayerHealthUpgraded : MonoBehaviour
 {
     [Header("Main Health")]
     public int maxHealth = 10;
